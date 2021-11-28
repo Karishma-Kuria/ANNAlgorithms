@@ -4,3 +4,4 @@
 3: All the Algorithms uses the state of art libraries like Faiss and Annoy.<br />
 4: It also contains descriptive comments in each step to describe the process.<br />
 5: For all the Algorithms, used in the colab I have calculated and printed the time taken by each algorithm to search for the nearest neighbours.<br/>
+6: The dataset consists of various questions which are then converted into vector form.<br/>
